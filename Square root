@@ -1,3 +1,9 @@
+
+# You are given a positive integer ‘N’. Your task is to find and return its square root. If ‘N’ is not a perfect square, then return the floor value of sqrt(N).
+For example:
+For ‘N’  = 25, return 5 , for ‘N’ = 20 return 4, for ‘N’ = 2 return 1. 
+
+
 int sqrtN(long long int N)
 {
     // Write your code here.
