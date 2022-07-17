@@ -15,7 +15,7 @@ minindex=j;
 }
 }
 swap=arr[minIndex];
-arr[minIndex]=arr[j];
-arr[j]=swap;
+arr[minIndex]=arr[i];
+arr[i]=swap;
 }
 }
